@@ -306,7 +306,7 @@ hr {
 	position:relative;
 	
 	 background: url(../img/cybersecurity.jpg) no-repeat center center fixed #000; 
-	opacity: 0.9;
+	opacity: 0.9	;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
