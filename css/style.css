@@ -305,7 +305,12 @@ hr {
 	width:100%;
 	position:relative;
 	
-	background: url(../img/cybersecurity.jpg) no-repeat top center;
+	 background: url(../img/cybersecurity.jpg) no-repeat center center fixed #000; 
+	opacity: 0.9;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 #intro.intro {
